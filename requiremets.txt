@@ -1,0 +1,2 @@
+PyAutoGUI
+python-imageseach-drov0
